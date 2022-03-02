@@ -1,0 +1,1 @@
+print('uczę się gita')
